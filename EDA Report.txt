@@ -1,0 +1,37 @@
+📊 EXPLORATORY DATA ANALYSIS (EDA) SUMMARY
+
+This analysis covers RugaibCo’s product sales and inventory activity across Saudi Arabia from January to July 2025. 
+
+🛍️ Product & Warehouse Landscape
+- Total Products: 500 across 17 brands and 8 categories
+- Active Products: 382 currently in assortment
+- Warehouse Network: 10 locations across 10 cities in 5 regions
+
+📅 Data Period
+- Transactions cover 6 months: Jan 12 – Jul 10, 2025
+
+💵 Financial Snapshot
+- Total Net Sales: SAR 90 million (after subtracting returns)
+- Avg. Unit Price: SAR 1,204.78
+- Avg. Unit Cost: SAR 637.89
+- Avg. Margin: SAR 566.89 (45.55%)
+
+📦 Inventory Activity
+- IN (Received): ~30,000 units
+- OUT (Sold): ~90,000 units
+- RETURNS: ~15,000 units
+- Shortage Rate: 16.53% of active inventory records are below reorder level
+
+📈 Channel Distribution
+- Sales evenly split across Online, Showroom, and B2B — ~33% each
+
+📍 Regional Sales Breakdown
+- West: 30.22% (top-performing region)
+- Central, North, East: ~20% each
+- South: 9.76% (lowest-performing region)
+
+✅ Key Insights
+- Strong and diverse product mix with high average margins
+- Balanced sales distribution across channels and major regions
+- Inventory shortages suggest improvement opportunities in supply planning
+- South region underperformance may warrant focused commercial strategies
